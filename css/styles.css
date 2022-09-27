@@ -1,0 +1,50 @@
+
+
+h1{ color: rgb(233, 24, 24)}
+
+
+.tituloDos {color: rgb(58, 197, 23);}
+
+.formacion {color: blue;}
+
+.fixtureTitle {color: rgb(238, 255, 7);
+font-size:xx-large;
+
+}
+
+.navPanel {background-image: url(https://images.ole.com.ar/bbtfile/4032_20160529mhppz0.jpg) -moz-radial-gradient()}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-image: url(https://images.ole.com.ar/bbtfile/4032_20160529mhppz0.jpg);
+      }
+  
+  li {
+    float:left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size:xx-large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+  
+  li a:hover {
+    background-color: rgb(255, 225, 0);
+  }
+
+  figcaption {font-size: x-large;
+color: white;text-align: center;}
+
+.fixtureImage {  
+    object-fit:fill; margin-left: auto;
+    margin-right: auto;
+     width: 40%
+  }
